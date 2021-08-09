@@ -118,7 +118,7 @@
                             <li> <H3>ends : 10:00 AM</H3></li>
 
                         </ul>
-                        <a href="https://forms.gle/uK7dKPYZyyvqAF61A" class="uk-button
+                        <a href="https://extendedforms.io/form/welcome" class="uk-button
                                  uk-button-primary-preserve uk-button-large uk-width-1-1"
 
                            style="background-color: mediumorchid">start </a>
