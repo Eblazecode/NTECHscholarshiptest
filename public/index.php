@@ -21,7 +21,8 @@
 
     <div class="uk-container uk-container-large ">
         <div class="uk-box-shadow-small uk-overflow-hidden uk-border-rounded uk-inline uk-background-center-center
-		uk-background-cover uk-background-norepeat uk-margin-large-left uk-margin-medium-top uk-background-blend-overlay uk-overlay-blend"
+		uk-background-cover uk-background-norepeat uk-margin-small-left uk-margin-medium-top
+		 uk-background-blend-overlay uk-overlay-blend"
              style="background-image: url(img/codingblue.jpg);">
             <div class="uk-padding-large">
                 <div data-uk-grid >
@@ -65,7 +66,7 @@
                     <div class="uk-width-1-@m">
                         <div data-uk-sticky="bottom: true; media: @m">
                             <div class="uk-card uk-card-default uk-card-body uk-width-1-1 uk-border-rounded-large">
-                                <h3>instructions</h3>
+                                <h3>Instructions</h3>
 
                                 <p class="uk-margin-remove">please abide by the following instructions :</p>
 
@@ -117,7 +118,7 @@
                             <li> <H3>ends : 10:00 AM</H3></li>
 
                         </ul>
-                        <a href="https://extendedforms.io/form/9410d796-0500-4309-ac20-27c87a1a7447/login" class="uk-button
+                        <a href="https://forms.gle/uK7dKPYZyyvqAF61A" class="uk-button
                                  uk-button-primary-preserve uk-button-large uk-width-1-1"
 
                            style="background-color: mediumorchid">start </a>
