@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-gb" dir="ltr">
+<html lang="en" dir="ltr">
 
 
 <!-- events.html  19 Nov 2019 03:39:34 GMT -->
@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>N-TECH  | Scholarship 2021</title>
+    <title>N-TECH  | Scholarship Test 2021</title>
     <link rel="shortcut icon" type="image/png" href="img/NTECH%20PNG-01.png" >
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/main.css" />
@@ -15,7 +15,6 @@
 </head>
 
 <body class="uk-background-body">
-
 <header id="header">
 
 
@@ -35,7 +34,6 @@
                                 Scholarship  2021</h1>
                             <p class="uk-margin-small-bottom">Acquire the most in demand skills in
                                 software engineering, data science, Networking etc </p>
-
                         </div>
                     </div>
                     <div class="uk-width-1-5@m">
@@ -47,8 +45,6 @@
                                 <div><a class="uk-button uk-button-primary-preserve
                                  uk-button-large uk-width-1-1@m" href="#instruction"
                                         style="background-color: purple" >Instructions </a></div>
-
-
                             </div>
                         </div>
                     </div>
@@ -56,8 +52,8 @@
             </div>
         </div>
     </div>
-
 </header>
+
 <div class="uk-section uk-margin-xlarge-bottom" id="instruction">
     <div class="uk-container">
         <div class="uk-grid-large" data-uk-grid>
@@ -80,9 +76,10 @@
                                     <li><span class="uk-margin-small-right" data-uk-icon="arrow-left"></span> There is a previous and next button on each question page.
                                         Click the previous button to see the question before your current question. Click the next button
                                         to see the question after your current question</li>
-                                  
-                                    <li><span class="uk-margin-small-right" data-uk-icon="push"></span>There is a submit button on the last question page
-                                            as ensure to click on it when done</li>
+
+                                    <li><span class="uk-margin-small-right" data-uk-icon="push"></span>There is a submit button at
+                                        the last question page
+                                             ensure to click on it when done</li>
 
                                 </ul>
 
@@ -121,10 +118,6 @@
 
 
 
-
-
-
-
 <?php include('includes/footer.php')?>
 
 <div id="offcanvas" data-uk-offcanvas="flip: true; overlay: true">
@@ -138,7 +131,8 @@
             <li ><a href="#contact">contact</a></li>
         </ul>
         <div class="uk-margin-medium-top">
-            <a class="uk-button uk-width-1-1 uk-button-primary-light" href="sign-up.html" style="background-color: mediumorchid; color: white">Register</a>
+            <a class="uk-button uk-width-1-1 uk-button-primary-light"
+               href="sign-up.html" style="background-color: mediumorchid; color: white">Register</a>
         </div>
         <div class="uk-margin-medium-top uk-text-center">
 
