@@ -78,30 +78,15 @@
                                     <li><span class="uk-margin-small-right" data-uk-icon="clock"></span> This timer will count down to the  0 seconds.
                                         Once your time is up, the exam will submit itself automatically </li>
                                     <li><span class="uk-margin-small-right" data-uk-icon="arrow-left"></span> There is a previous and next button on each question page.
-                                        Click the previous button to see the question before your current question. Click the next button to see the question after your current question</li>
-                                    <li><span class="uk-margin-small-right" data-uk-icon="check"></span> You can click on any number to jump to that question number.
-                                        This is shown and explained below</li>
+                                        Click the previous button to see the question before your current question. Click the next button
+                                        to see the question after your current question</li>
+                                  
                                     <li><span class="uk-margin-small-right" data-uk-icon="push"></span>There is a submit button on the last question page
                                             as ensure to click on it when done</li>
 
                                 </ul>
 
-                                <ul class="uk-margin-top" data-uk-accordion="multiple: true" id="faqs">
-                                    <li>
-                                        <a class="uk-accordion-title" href="#">click to verify email </span></a>
-                                        <div class="uk-accordion-content">
-                                            <form>
-                                                <div class="uk-width-1-1 uk-margin">
-                                                    <label class="uk-form-label" for="email">Enter registered email </label>
-                                                    <input id="email" class="uk-input uk-form-large" type="email" placeholder="tom@company.com">
-                                                </div>
-                                                <div class="uk-width-1-1 uk-text-center">
-                                                    <a href="sign-in.html" class="uk-button uk-button-primary uk-button-small">verify</a>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </li>
-                                </ul>
+
                             </div>
                         </div>
                     </div>
