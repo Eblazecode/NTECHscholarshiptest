@@ -96,11 +96,11 @@
                         <h3>Duration</h3>
                         <p class="uk-margin-remove">your session start and ends;</p>
                         <ul class="uk-list uk-margin-small-top">
-                            <li> <H3>start : 9:00 AM</H3></li>
-                            <li> <H3>ends : 10:00 AM</H3></li>
+                            <li> <H3>start : 10:00 AM</H3></li>
+                            <li> <H3>ends : 11:00 AM</H3></li>
 
                         </ul>
-                        <a href="https://forms.gle/RiQSkTtJb3hZYxTj7" class="uk-button
+                        <a href="https://forms.gle/S9KK1y6782fhodp5A" class="uk-button
                                  uk-button-primary-preserve uk-button-large uk-width-1-1"
 
                            style="background-color: mediumorchid">start </a>
